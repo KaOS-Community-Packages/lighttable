@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=lighttable
+GenericName=LightTable
+Comment=Code editor IDE
+Exec=/usr/share/lighttable/LightTable
+Icon=/usr/share/pixmaps/lighttable.png
+Type=Application
+Categories=Development
+Terminal=false
+MimeType=text/plain
+StartupNotify=true
